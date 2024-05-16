@@ -24,9 +24,12 @@
   
 ### 1.2 จำแนกขั้นตอน
 ```mermaid
-flowchart DT
-A-->B
-B-->C
+flowchart TD
+    A[Start] --> B{key process?}
+    B -->|Yes| C[Analyze]
+    C --> D[Digitize]
+    D --> E[End]
+    B ---->|No| E[End]
 ```
 
 ### 1.3 คิดหาแนวทางการประยุกต์ใช้เทคโนโลยีในแต่ะขั้นตอน
