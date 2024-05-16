@@ -14,7 +14,8 @@
 > - _A problem well stated is half solved_.--__Charles Kettering__
 > - _Direction is more important than speed_.
 > - _Give me six hours to chop down a tree and I will spend the first four sharpening the axe_.--__Abraham Lincoln__
-สังเกตว่า พระพุทธเจ้าทรงแสดงธรรมเกี่ยวกับปัญหาของสัตว์ทั้งหลายก่อน (ทุกขอริยสัจ) 
+
+พระพุทธเจ้าทรงแสดงธรรมเกี่ยวกับปัญหาของสัตว์ทั้งหลายก่อน (ทุกขอริยสัจ) การเห็นปัญหา จะเกิดปัญญารู้แจ้ง
 
 - เลือกกระบวนงาน
 - จำแนกขั้นตอน
