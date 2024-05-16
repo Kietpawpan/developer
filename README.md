@@ -10,7 +10,7 @@
 
 
 ## 1. วิเคราะห์ปัญหา
-> [!NOTE]
+> [!TIP]
 > - _A problem well stated is half solved_.--__Charles Kettering__
 > - _Direction is more important than speed_.
 > - _Give me six hours to chop down a tree and I will spend the first four sharpening the axe_.--__Abraham Lincoln__
