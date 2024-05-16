@@ -11,7 +11,9 @@
 
 ## 1. วิเคราะห์ปัญหา
 > [!NOTE]
-> _A problem well stated is half solved_
+> - _A problem well stated is half solved_.
+> - _Direction is more important than speed_.
+> - _I spend hours shapen the axe_.
 
 - เลือกกระบวนงาน
 - จำแนกขั้นตอน
