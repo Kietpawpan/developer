@@ -34,7 +34,11 @@ F-->G[End]
 ```
 
 ### 1.3 คิดหาแนวทางการประยุกต์ใช้เทคโนโลยีในแต่ะขั้นตอน
-
+- Web Application
+  - e-Request
+  - AI (Expert System)
+  - e-Tracking
+  - e-Payment
 > [!TIP]
 > ประชาชนสะดวก เจ้าหน้าที่สบาย
 
