@@ -60,11 +60,17 @@ F-->G[End]
  
 ## 3. เขียนโปรแกรม
 ### 3.1 เลือกโปรแกรมหลังบ้าน
-
+ใช้ระบบที่มีอยู่
+- Web Server ของ DE
+- E-mails ของทุกหน่วยงาน ทส.
+- จนท.สารบรรณ ของทุกหน่วยงาน ทส.
+- Apache/PHP/
+   
 - จั่นเจา ไม่ตีกระบี่เอง
 - เห้งเจีย ไม่สร้างกระบองเอง
 >[!TIP]
 > _If I have seen further it is by standing on the shoulders of Giants_.--__Isaac Newton__
+
 ### 3.2 สร้างโปรแกรมหน้าบ้าน
 เน้นภาษาสากล HTML/JavaScript/CSS/PHP 
 - เรียนรู้ง่าย
