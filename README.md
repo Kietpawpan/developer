@@ -63,7 +63,8 @@ F-->G[End]
 ยืนบนไหล่ยักษ์ 
 จั่นเจา ไม่ต้องตีกระบี่เอง
 เห้งเจีย ไม่ได้สร้างกระบองเอง
-
+>[!TIP]
+> _If I have seen further it is by standing on the shoulders of Giants_.--__Isaac Newton__
 ### 3.2 สร้างโปรแกรมหน้าบ้าน
 เน้นภาษาสากล HTML/JavaScript/CSS/PHP 
 - เรียนรู้ง่าย
