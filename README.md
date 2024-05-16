@@ -56,7 +56,7 @@ F-->G[End]
 - ดูมาตรฐานภาครัฐ
 - สร้างสรรค์สิ่งที่ดีกว่า
 >[!TIP]
-> _If you cannot make it good, make it look good_.--__Bill Gate__
+> _f you can't make it good, at least make it look good_.--__Bill Gate__
  
 ## 3. เขียนโปรแกรม
 ### 3.1 เลือกโปรแกรมหลังบ้าน
