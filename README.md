@@ -24,7 +24,7 @@
   
 ### 1.2 จำแนกขั้นตอน
 ```mermaid
-flowchart TD
+flowchart LR
     A[Start] --> B[ยื่นคำขอ]
     B --> C[พิจารณาคำขอ]
 C-->D[แจ้งผล]
