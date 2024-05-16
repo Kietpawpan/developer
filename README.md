@@ -13,7 +13,9 @@
 > [!NOTE]
 > - _A problem well stated is half solved_.
 > - _Direction is more important than speed_.
-> - _I spend hours shapen the axe_.
+> - _Give me six hours to chop down a tree and I will spend the first four sharpening the axe_.--__Abraham Lincoln__
+
+Abraham Lincoln
 
 - เลือกกระบวนงาน
 - จำแนกขั้นตอน
